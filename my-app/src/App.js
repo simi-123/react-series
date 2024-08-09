@@ -1,7 +1,7 @@
-
+import Application from "./Test"
 function App() {
   return (
-    <h1>Hello this is my first react app</h1>
+   <Application/>
   );
 }
 
